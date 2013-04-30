@@ -1,7 +1,7 @@
 <?php
-
+$title='Bootstrap based PHP framework by galaxija_737';
 $heading='1stWebDesigner PHP Template';
 
-$footer='Copyright &copy; 2010 1stWebDesigner PHP Template';
+$footer='';
 
 ?>

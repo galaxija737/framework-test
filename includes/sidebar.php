@@ -1,24 +1,20 @@
-<div id="sidebar">
-
-<h3>Navigation</h3>
-	<li><a href="#">Home</a></li>
-	<li><a href="#">About Us</a></li>
-	<li><a href="#">Links</a></li>
-	<li><a href="#">Portfolio</a></li>
-	<li><a href="#">Contact</a></li>
-
-<h3>Box Two</h3>
-	<li><a href="#">Link Here</a></li>
-	<li><a href="#">Link Here</a></li>
-	<li><a href="#">Link Here</a></li>
-	<li><a href="#">Link Here</a></li>
-	<li><a href="#">Link Here</a></li>
-
-<h3>Box Three</h3>
-	<li><a href="#">Link Here</a></li>
-	<li><a href="#">Link Here</a></li>
-	<li><a href="#">Link Here</a></li>
-	<li><a href="#">Link Here</a></li>
-	<li><a href="#">Link Here</a></li>
-
-</div> <!-- end #sidebar -->
+		  <div class="well sidebar-nav">
+            <ul class="nav nav-list">
+              <li class="nav-header">Sidebar</li>
+              <li class="active"><a href="#">Link</a></li>
+              <li><a href="#">Link</a></li>
+              <li><a href="#">Link</a></li>
+              <li><a href="#">Link</a></li>
+              <li class="nav-header">Sidebar</li>
+              <li><a href="#">Link</a></li>
+              <li><a href="#">Link</a></li>
+              <li><a href="#">Link</a></li>
+              <li><a href="#">Link</a></li>
+              <li><a href="#">Link</a></li>
+              <li><a href="#">Link</a></li>
+              <li class="nav-header">Sidebar</li>
+              <li><a href="#">Link</a></li>
+              <li><a href="#">Link</a></li>
+              <li><a href="#">Link</a></li>
+            </ul>
+          </div><!--/.well -->

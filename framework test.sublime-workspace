@@ -1,0 +1,492 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"borderco",
+				"border-color"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"colo",
+				"border-color"
+			],
+			[
+				"backg",
+				"background-clip"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"hero",
+				"hero-unit"
+			],
+			[
+				"borto",
+				"border-top-left-radius"
+			],
+			[
+				"borcol",
+				"border-bottom-color"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"st",
+				"list-style-type"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"font",
+				"font-family"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/gale/Google Drive/APP Colab/docs/points.html",
+			"settings":
+			{
+				"buffer_size": 4238,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/gale/Google Drive/APP Colab/docs/features.html",
+			"settings":
+			{
+				"buffer_size": 3326,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/gale/Google Drive/APP Colab/docs/assets/css/style.css",
+			"settings":
+			{
+				"buffer_size": 3401,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/gale/Google Drive/APP Colab/docs/assets/css/bootstrap.css",
+			"settings":
+			{
+				"buffer_size": 127256,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/gale/Google Drive/APP Colab/docs/assets/css/docs.css",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"snippe",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"snippet",
+				"Snippet: Theme Head"
+			],
+			[
+				"sni",
+				"Snippet: html"
+			],
+			[
+				"syht",
+				"Set Syntax: HTML"
+			],
+			[
+				"fetc",
+				"Fetch: File"
+			],
+			[
+				"",
+				"Fetch: Manage"
+			],
+			[
+				"fet",
+				"Fetch: File"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 491.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/gale/Desktop/sitemap.xsl.php",
+		"/C/Users/gale/Desktop/Sitemap.xml",
+		"/C/Users/gale/Google Drive/Cloudfinder/@@@ RESOURCE/webfontkit-20130305-074859/aller_bd-demo.html",
+		"/C/Users/gale/Google Drive/Cloudfinder/@@@ RESOURCE/webfontkit-20130305-074859/stylesheet.css",
+		"/C/wamp/www/framework-test/framework test.sublime-project",
+		"/C/Users/gale/Desktop/docs/assets/css/bootstrap.css",
+		"/C/Users/gale/Desktop/docs/points.html",
+		"/C/Users/gale/Desktop/docs/assets/css/style.css",
+		"/C/wamp/www/framework-test/variables/variables.php",
+		"/C/wamp/www/framework-test/includes/footer.php",
+		"/C/Users/gale/Google Drive/Cloudfinder/@@@ RESOURCE/twitter-bootstrap-37d0a30/docs/index.html",
+		"/C/wamp/www/framework-test/index.html.bak",
+		"/C/wamp/www/framework-test/style.css",
+		"/C/wamp/www/framework-test/includes/header.php",
+		"/C/wamp/www/framework-test/assets/js",
+		"/C/wamp/www/framework-test/assets/css",
+		"/C/wamp/www/framework-test/index.php",
+		"/C/Users/gale/Google Drive/theme/cloudfinder/style.css",
+		"/C/wamp/www/framework-test/normalize.css",
+		"/C/wamp/www/framework-test/index.html",
+		"/C/Users/gale/AppData/Roaming/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/C/wamp/www/framework-test/includes/nav.php",
+		"/C/wamp/www/framework-test/includes/sidebar.php",
+		"/C/Users/gale/Google Drive/public_html/assets/css/style.css",
+		"/C/Users/gale/Google Drive/public_html/alloyrefurbishment.html",
+		"/C/Users/gale/Google Drive/public_html/bodykits.html",
+		"/C/Users/gale/Google Drive/public_html/contact.php",
+		"/C/Users/gale/Google Drive/public_html/dipping.html",
+		"/C/Users/gale/Google Drive/public_html/hydrodipping.html",
+		"/C/Users/gale/Google Drive/public_html/services.html",
+		"/C/Users/gale/Google Drive/public_html/index.html",
+		"/C/Users/gale/Google Drive/public_html/assets/css/bootstrap.css",
+		"/C/Users/gale/Desktop/webfontkit-20130411-121310/stylesheet.css",
+		"/C/Users/gale/Google Drive/app.cloudfinder.com/docs/starter-template.html",
+		"/C/Users/gale/Google Drive/app.cloudfinder.com/docs/draganddrop.html",
+		"/C/Users/gale/Google Drive/app.cloudfinder.com/docs/style.css",
+		"/C/Users/gale/AppData/Roaming/Sublime Text 2/Packages/LiveReload/LiveReload.sublime-settings",
+		"/C/Users/gale/AppData/Roaming/Sublime Text 2/Packages/LiveReload/assets/config.rb",
+		"/C/Users/gale/Google Drive/app.cloudfinder.com/docs/assets/css/style.css",
+		"/C/Users/gale/Google Drive/app.cloudfinder.com/docs/assets/css/font-awesome.css",
+		"/C/Users/gale/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/C/Users/gale/AppData/Local/Temp/fz3temp-1/hacks.php",
+		"/C/Users/gale/AppData/Local/Temp/fz3temp-1/class-bwp-gxs-module.php",
+		"/C/Users/gale/Desktop/sitemap-index.xsl.php",
+		"/C/Users/gale/AppData/Local/Temp/fz3temp-1/rps-sitemap-generator.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hr",
+			"right",
+			"top",
+			"right",
+			"d5d5d5",
+			"right",
+			"151515",
+			"040404",
+			"gradient",
+			"<div class=\"row-fluid ",
+			"well",
+			" class=\"span12\"",
+			"assets/",
+			"aller_",
+			"masthead",
+			" Le ",
+			"buell/",
+			"body_kits-body_work/BMW-e92",
+			"Felne",
+			"Auto-G-Tune",
+			"bleeding_cowboys",
+			"project",
+			"Read more",
+			"navbar-inverse",
+			"dropdown",
+			"dropdo",
+			"<span class=\"configure\" ><a href=\"#\" >Configure widget</a>",
+			"success",
+			"Approved",
+			" - Monthly",
+			"<td>1</td>",
+			"h3",
+			"well-widget",
+			"well"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/gale/Google Drive/APP Colab/docs/points.html",
+					"settings":
+					{
+						"buffer_size": 4238,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1304,
+								1511
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/gale/Google Drive/APP Colab/docs/features.html",
+					"settings":
+					{
+						"buffer_size": 3326,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2650,
+								2650
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/gale/Google Drive/APP Colab/docs/assets/css/style.css",
+					"settings":
+					{
+						"buffer_size": 3401,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3399,
+								3399
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1950.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/gale/Google Drive/APP Colab/docs/assets/css/bootstrap.css",
+					"settings":
+					{
+						"buffer_size": 127256,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12273,
+								12273
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 13182.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/gale/Google Drive/APP Colab/docs/assets/css/docs.css",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1516.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 157.0,
+	"status_bar_visible": true
+}
